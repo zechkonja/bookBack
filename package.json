@@ -1,0 +1,18 @@
+{
+  "name": "nodejsrest",
+  "version": "1.0.0",
+  "description": "My first rest node.js app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NN",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "^2.8.4",
+    "express": "*",
+    "mongoose": "*",
+    "node-fetch": "^2.0.0"
+  }
+}
